@@ -107,12 +107,8 @@
         "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates ab ullam explicabo maxime inventore alias, molestias reiciendis voluptate modi sunt placeat in, vel illo, dolorem.",
         "btnText": "Learn More",
         "btnTextTwo": "See all features",
-        "thumbOne": "/img/service_thumb_1.png",
-        "thumbTwo": "/img/service_thumb_2.png",
-        "thumbThree": "/img/welcome_mockup_2.png",
-        "thumbFour": "/img/discover_thumb.png",
-        "thumbFive": "/img/service_thumb_1.png",
-        "thumbSix": "/img/discover_thumb_2.png",
+        "thumbOne": "/img/service_thumb.png",
+        "thumbTwo": "/img/discover_thumb.png",
         "serviceData": [
             {
                 "id": 1,
