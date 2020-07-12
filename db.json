@@ -1,0 +1,189 @@
+{
+    "themeOneFeatureSection": {
+        "preHeading": "Premium Features",
+        "heading": "AppMax Features",
+        "headingTwo": "Why choose AppMax?",
+        "headingThree": "All Solutions on AppMax",
+        "headingFour": "Explore the features that blow your mind",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "headingTextThree": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates ab ullam explicabo maxime inventore alias, molestias reiciendis voluptate modi sunt placeat in, vel illo, dolorem.",
+        "btnText": "See all features",
+        "featureData": [
+            {
+              "id": 1,
+              "iconClass": "pe-7s-plug",
+              "title": "Fully functional",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 2,
+              "iconClass": "pe-7s-graph",
+              "title": "Secure Data",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 3,
+              "iconClass": "pe-7s-map-2",
+              "title": "Track Location",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 4,
+              "iconClass": "pe-7s-alarm",
+              "title": "Data Analyse",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            }
+        ],
+        "featureDataTwo": [
+            {
+              "id": 1,
+              "iconClass": "pe-7s-plug",
+              "title": "Fully functional",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 2,
+              "iconClass": "pe-7s-graph",
+              "title": "Secure Data",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 3,
+              "iconClass": "pe-7s-map-2",
+              "title": "Track Location",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 4,
+              "iconClass": "pe-7s-alarm",
+              "title": "Data Analyse",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 5,
+              "iconClass": "pe-7s-volume",
+              "title": "Voice Control",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 6,
+              "iconClass": "pe-7s-switch",
+              "title": "Custom Switch",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            }
+        ],
+        "featureDataThree": [
+            {
+              "id": 1,
+              "iconClass": "pe-7s-plug",
+              "title": "Fully functional",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 2,
+              "iconClass": "pe-7s-graph",
+              "title": "Secure Data",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            },
+            {
+              "id": 3,
+              "iconClass": "pe-7s-map-2",
+              "title": "Track Location",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit Ipsam sequi."
+            }
+        ]
+    },
+    "themeOneServiceSection": {
+        "preHeading": "Fully Customizable",
+        "preHeadingTwo": "High Customizable",
+        "preHeadingThree": "Premium Features",
+        "heading": "Work faster with powerful tools.",
+        "headingTwo": "Easy to manage all your data",
+        "headingThree": "Stay connected with all of your friends",
+        "headingFour": "Easily communicate with clients using AppMax.",
+        "headingFive": "Explore the features that blow your mind",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates ab ullam explicabo maxime inventore alias, molestias reiciendis voluptate modi sunt placeat in, vel illo, dolorem.",
+        "btnText": "Learn More",
+        "btnTextTwo": "See all features",
+        "thumbOne": "/img/service_thumb_1.png",
+        "thumbTwo": "/img/service_thumb_2.png",
+        "thumbThree": "/img/welcome_mockup_2.png",
+        "thumbFour": "/img/discover_thumb.png",
+        "thumbFive": "/img/service_thumb_1.png",
+        "thumbSix": "/img/discover_thumb_2.png",
+        "serviceData": [
+            {
+                "id": 1,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam necessitatibus, sed aliquam. Ab, doloremque, totam."
+            },
+            {
+                "id": 2,
+                "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+            },
+            {
+                "id": 3,
+                "text": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "id": 4,
+                "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+            }
+        ],
+        "serviceDataTwo": [
+            {
+                "id": 1,
+                "text": "Combined with a handful of model sentence structures looks reasonable."
+            },
+            {
+                "id": 2,
+                "text": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+            },
+            {
+                "id": 3,
+                "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
+            },
+            {
+                "id": 4,
+                "text": "Natus error sit voluptatem unde omnis iste natus error sit voluptatem accusantium."
+            },
+            {
+                "id": 5,
+                "text": "All the Lorem Ipsum generators on the Internet tend to repeat necessary."
+            }
+        ],
+        "serviceDataThree": [
+            {
+                "id": 1,
+                "text": "Awesome style dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+                "id": 2,
+                "text": "Material design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+                "id": 3,
+                "text": "Power ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+                "id": 4,
+                "text": "Features chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            }
+        ],
+        "iconData": [
+            {
+                "id": 1,
+                "iconClass": "ti-alarm-clock"
+            },
+            {
+                "id": 2,
+                "iconClass": "ti-crown"
+            },
+            {
+                "id": 3,
+                "iconClass": "ti-map-alt"
+            }
+        ]
+    }
+}
